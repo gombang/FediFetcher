@@ -1,0 +1,6 @@
+{
+  "server": "social.nancengka.com",
+  "home-timeline-length": 200,
+  "max-followings": 500,
+  "from-notifications": 1
+}
